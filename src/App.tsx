@@ -1,10 +1,11 @@
-import StudentForm from "./StudentForm"
+import StudentsList from './components/StudentsList'
+
 function App() {
   console.log('App')
 
   return (
     <div>
-      <StudentForm />
+      <StudentsList />
     </div>
 
   )
